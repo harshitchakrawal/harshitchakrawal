@@ -1,8 +1,6 @@
 # Hi, I'm Harshit 
 
-<p align="center">
-  <img src="https://raw.githubusercontent.com/harshitchakrawal/harshitchakrawal/main/live.gif" width="500"/>
-</p>
+![Coding](https://raw.githubusercontent.com/harshitchakrawal/harshitchakrawal/main/live.gif)
 
 ## Languages
 ![Python](https://skillicons.dev/icons?i=python)
