@@ -1,7 +1,7 @@
 # Hi, I'm Harshit 
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/harshitchakrawal/harshitchakrawal/main/live.gif" width="80%" />
+  <img src="https://raw.githubusercontent.com/harshitchakrawal/harshitchakrawal/main/live.gif" width="90%" />
 </p>
 
 ## Languages
